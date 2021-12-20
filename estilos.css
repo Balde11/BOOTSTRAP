@@ -1,0 +1,26 @@
+.fondo_morado{
+    background-color: cyan;
+}
+.texto_morado{
+    margin: 1em;
+    width: 1300px;
+    height: 280px;
+    background: #eee;
+    border: 20px solid transparent;
+    -moz-border-image: -moz-linear-gradient(top, #3acfd5 0%, #3a4ed5 100%);
+    -webkit-border-image: -webkit-linear-gradient(top, #3acfd5 0%, #3a4ed5 100%);
+    border-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%);
+    border-image-slice: 1;
+}
+img{
+    margin: 1em;
+    height: 200px;
+    width: 200px;
+}
+.tokyo{
+  background-color: green;
+ 
+}
+.hiero{
+    background-color: hotpink;
+}
